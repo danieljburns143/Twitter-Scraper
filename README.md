@@ -1,2 +1,3 @@
 # Twitter-Scraper
-A program to scrape Twitter using the library Tweepy
+### Daniel Burns
+A program to scrape Twitter using the Tweepy library
